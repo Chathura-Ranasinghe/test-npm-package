@@ -1,13 +1,13 @@
 {
-  "name": "test-npm-package",
-  "version": "1.0.0",
+  "name": "chathura-test-package",
+  "version": "0.0.1",
   "description": "Test npm package",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "homepage": "https://www.google.lk/",
   "repository": {
-    "url": " "
+    "url": "https://github.com/Chathura-Ranasinghe/test-npm-package"
   },
   "scripts": {
     "build": "tsup"
